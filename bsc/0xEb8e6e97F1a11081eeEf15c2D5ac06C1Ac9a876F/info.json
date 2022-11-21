@@ -1,0 +1,11 @@
+{
+ "name": "OXM Coin",
+ "website": "https://www.oxo-dao.com/",
+ "description": "OXM is an ecological encrypted asset issued by a combination of elements such as DEFI, WEB3.0, and DAO community autonomy. The application scenarios involve metaverse, decentralized exchanges, and charity traceability. Empowered by the technical geeks of the DAO community, audited by a world-renowned third-party professional audit institution, and co-constructed and shared by the builders of the SOX community, it will create a fully decentralized, fair, fair and open blockchain encrypted digital ecological asset mother currency,  It has strong vitality and huge room for growth.",
+ "explorer": "https://bscscan.com/token/0xEb8e6e97F1a11081eeEf15c2D5ac06C1Ac9a876F",
+ "type": "BEP20",
+ "symbol": "OXM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEb8e6e97F1a11081eeEf15c2D5ac06C1Ac9a876F"
+}
